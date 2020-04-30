@@ -123,3 +123,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+dirty.yaml
+outfits.yaml
